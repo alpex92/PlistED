@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/toolbar">
+        <file>res/Add.png</file>
+        <file>res/Remove.png</file>
+        <file>res/Menu Item.png</file>
+        <file>res/Transfer.png</file>
+    </qresource>
+</RCC>
